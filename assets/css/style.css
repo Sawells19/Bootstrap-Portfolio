@@ -21,7 +21,6 @@ body{
     min-height: 100vh;
 }
 #mainContainer{
-    padding-top: 120px;
     margin-top: 30px;
     flex: 1;
 
